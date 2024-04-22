@@ -60,6 +60,7 @@ or(c,d[1],d[3],d[5],d[7]);
 endmodule
 ```
 DECODER:
+```
 module decoder_8(a,b,c,y);
 input a,b,c; 
 output[7:0]y; 
@@ -95,7 +96,9 @@ d5=(in & s2 & ~s1 &s0),
 d6=(in & s2 & s1 &~s0),
 d7=(in & s2 & s1 &s0);
 endmodule
+```
 MAGNITUDE COMPARATOR:
+```
 module magcomp(a,b,l,g,e);
 input [3:0]a,b;
 output reg l,g,e;
