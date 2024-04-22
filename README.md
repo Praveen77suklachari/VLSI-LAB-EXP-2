@@ -11,7 +11,7 @@ Spartan6 FPGA
 
 ENCODER
 
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/6987778/3cd1f95e-7531-4cad-9154-fdd397ac439e)
+![318348570-30d26ed7-f390-4cea-9616-777ef367a412](https://github.com/Praveen77suklachari/VLSI-LAB-EXP-2/assets/124765056/cdffd3f7-3a70-43d2-b52a-a5a6cbd6e983)
 
 
 DECODER
